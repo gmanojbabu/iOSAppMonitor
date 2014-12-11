@@ -1,0 +1,3 @@
+[submodule "External/CrashReporter"]
+	path = External/CrashReporter
+	url = https://gmanojbabu@github.com/gmanojbabu/plcrashreporter.git
